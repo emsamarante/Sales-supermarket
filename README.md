@@ -4,7 +4,7 @@
 
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. 
 
-## Data analisys plan
+## Data analysis plan
 
 #### Goals
 In this project, I do the data analysis in retail of three branchs during the three months in order to answer the following questions:
@@ -40,6 +40,20 @@ The table has 17 colunms:
 - Gross income: Gross income
 - Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 
+#### Tools used:
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-Neste projeto eu realizo toda a análise de dados usando MySQL e desenvolvo um dashboard usando Dash/Python. Para ter uma melhor experiência com o dashboard, por favor use um monitor de computador ou acesse-o via laptop. 
+All analysis was made in MySQL, but the dashboard was built using Python, Dash, HTML and CSS. To have a better experience with the dashboard, get access in the desktop screen.
+
+Click on here to get access the dashboard.
+
+#### Techniques applied:
+
+Aggregation, view materialized, subqueries, attributes transforming, parsin, and so forth.
+
+## Conclusions
+
+The answers of the listed questions and the others that you, my dear reader, must have can be solved using the filters and the iteractive datatable.
+
